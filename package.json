@@ -9,7 +9,7 @@
     "react-dom": "latest",
     "typescript": "latest"
   },
-  "description": "https://github.com/mui/material-ui/blob/v6.1.2/docs/data/material/components/autocomplete/ComboBox.tsx",
+  "description": "Material UI powered multi select autocomplete component",
   "devDependencies": {
     "react-scripts": "latest"
   },
